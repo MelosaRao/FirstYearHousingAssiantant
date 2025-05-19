@@ -7,4 +7,3 @@ chromadb
 langchain_google_genai
 langchain_text_splitters
 python-dotenv
-protobuf==3.20.3
