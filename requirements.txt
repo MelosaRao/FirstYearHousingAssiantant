@@ -8,3 +8,4 @@ langchain_google_genai
 langchain_text_splitters
 python-dotenv
 pysqlite3-binary
+protobuf==3.20.*
