@@ -7,3 +7,4 @@ chromadb
 langchain_google_genai
 langchain_text_splitters
 python-dotenv
+pydantic<2.0
