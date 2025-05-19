@@ -1,0 +1,9 @@
+streamlit
+bs4
+langchain
+langchain_community
+langchain_chroma
+chromadb
+langchain_google_genai
+langchain_text_splitters
+python-dotenv
