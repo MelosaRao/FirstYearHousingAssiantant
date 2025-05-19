@@ -1,3 +1,6 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import streamlit as st
 st.title("Duke First Year Housing Assiantant")
 from langchain_chroma import Chroma
