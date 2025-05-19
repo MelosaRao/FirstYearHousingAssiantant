@@ -9,4 +9,4 @@ langchain_text_splitters
 python-dotenv
 pysqlite3-binary
 protobuf==3.20.*
-python==3.10
+python<=3.10
