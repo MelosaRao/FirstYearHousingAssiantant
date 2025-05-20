@@ -1,6 +1,6 @@
 # FirstYearHousingAssiantant
 
-# 🏠 Duke First Year Housing Chatbot
+# Duke First Year Housing Chatbot
 
 ## Overview
 This is a **Streamlit-based RAG chatbot** that helps users navigate Duke University housing information. It integrates **ChromaDB** for retrieval-augmented responses and provides **context-aware answers** based on stored documents.
